@@ -41,6 +41,7 @@
     "zod": "^4.1.12"
   },
   "devDependencies": {
+    "@better-auth/cli": "^1.4.0",
     "@eslint/eslintrc": "^3",
     "@types/bcryptjs": "^2.4.6",
     "@types/node": "^20",
